@@ -197,3 +197,4 @@ python manage.py test
 ```
 
 The test suite covers node creation, duplicate validation, edge creation, invalid latency, shortest-path calculation, unavailable routes, and route history.
+
